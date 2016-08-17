@@ -1,0 +1,4 @@
+requests>=2.6.2
+python-firebase>=1.2
+crypto>=1.4.1
+pycrypto>=2.6.1
